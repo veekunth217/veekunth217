@@ -12,6 +12,7 @@
 
 <p align="center">
   <a href="https://sequentalogix.com"><img src="https://img.shields.io/badge/Website-sequentalogix.com-ff5b1a?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.upwork.com/freelancers/~014543df5822b3befd"><img src="https://img.shields.io/badge/Upwork-5.0%20%E2%98%85-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=veekunth217&style=for-the-badge&color=ff5b1a&label=Profile+Views">
 </p>
 
@@ -24,8 +25,12 @@
 ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
@@ -69,6 +74,20 @@ Customized a multi-vehicle chauffeur booking and dynamic-pricing system on a LEM
 
 ---
 
+### 📜 Certifications
+
+- **Terraform on AWS EKS Kubernetes IaC SRE — 50 Real-World Demos** · Udemy (2025)
+- **DevOps Beginners to Advance with Projects** · Udemy (2024)
+
+---
+
+### 🎓 Education
+
+- **MSc, Advanced Computer Science** — University of Leicester
+- **BTech, Information Technology** — Punjab Technical University
+
+---
+
 ### 🐍 Contribution graph
 
 <picture>
@@ -82,8 +101,8 @@ Customized a multi-vehicle chauffeur booking and dynamic-pricing system on a LEM
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=veekunth217&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=veekunth217&layout=compact&theme=tokyonight&langs_count=8">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=veekunth217&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veekunth217&layout=compact&theme=tokyonight&langs_count=8">
 </p>
 
 ---
