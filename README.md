@@ -82,8 +82,8 @@ Customized a multi-vehicle chauffeur booking and dynamic-pricing system on a LEM
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=veekunth217&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veekunth217&layout=compact&theme=tokyonight&langs_count=8">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=veekunth217&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=veekunth217&layout=compact&theme=tokyonight&langs_count=8">
 </p>
 
 ---
