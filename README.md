@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Veekunth Arora 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FF5B1A&center=true&width=620&lines=Cloud+%26+DevOps+Engineer;AWS+%C2%B7+Kubernetes+%C2%B7+Terraform;Private+LLM+%26+GPU+Infrastructure;13%2B+Years+Shipping+Cloud-Native+SaaS">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF5B1A&center=true&width=500&lines=Cloud+%26+DevOps+Engineer;AWS+%C2%B7+Kubernetes+%C2%B7+Terraform;Private+LLM+%26+GPU+Infrastructure;13%2B+Years+Shipping+SaaS">
 </p>
 
 <p align="center">
@@ -46,34 +46,44 @@
 
 ### 🧩 Selected work
 
-**🟢 Novagems** — Multi-tenant workforce-management SaaS
+**🟢 Novagems** — Multi-tenant workforce-management SaaS<br>
 Built and run the platform on AWS EKS with Argo CD + Helm GitOps, multi-tenant isolation, and a full CI/CD pipeline. CTO and lead architect.
 
-**🟢 Akash GPU Provider** — Decentralized compute infrastructure
+**🟢 Akash GPU Provider** — Decentralized compute infrastructure<br>
 Stood up a production GPU provider on the Akash Network — bare-metal Ubuntu hosts, Helm-based provider config, GPU capability attributes, security-hardened, with a live health dashboard. Part of a multi-rig compute farm.
 
-**🔵 claude-scaffold-skill** — Open-source tooling for Claude Code
+**🔵 claude-scaffold-skill** — Open-source tooling for Claude Code<br>
 A registry of 30+ skills to scaffold any stack, discover community skills, and sync context across machines. → [repo](https://github.com/veekunth217/claude-scaffold-skill)
 
-**⚙️ Private LLM Deployments** — On-prem inference for regulated industries
+**⚙️ Private LLM Deployments** — On-prem inference for regulated industries<br>
 Designed fully offline, single-tenant LLM stacks (qwen / nemotron class models) on GPU instances for a medical-device client — no data leaves the customer's environment. Compliance-first MedTech use case.
 
-**⚙️ Government Vehicle Intelligence Platform** — National data integration
+**⚙️ Government Vehicle Intelligence Platform** — National data integration<br>
 Angular + Node.js system integrating national vehicle, e-challan and toll APIs through a government data exchange layer, with bulk search, PDF reporting and activity auditing.
 
-**⚙️ Crypto Checkout Plugin** — WordPress payment integration
+**⚙️ Crypto Checkout Plugin** — WordPress payment integration<br>
 A white-labeled cryptocurrency checkout plugin with full merchant onboarding flow and gateway integration.
 
-**⚙️ Chauffeur Booking Platform** — Production booking system
+**⚙️ Chauffeur Booking Platform** — Production booking system<br>
 Customized a multi-vehicle chauffeur booking and dynamic-pricing system on a LEMP stack for a live, paying client.
+
+---
+
+### 🐍 Contribution graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/veekunth217/veekunth217/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/veekunth217/veekunth217/output/github-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/veekunth217/veekunth217/output/github-snake.svg">
+</picture>
 
 ---
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=veekunth217&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=veekunth217&layout=compact&theme=tokyonight&langs_count=8">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=veekunth217&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veekunth217&layout=compact&theme=tokyonight&langs_count=8">
 </p>
 
 ---
@@ -81,7 +91,9 @@ Customized a multi-vehicle chauffeur booking and dynamic-pricing system on a LEM
 ### 📫 Reach me
 
 <p align="center">
-  <a href="https://sequentalogix.com"><img src="https://img.shields.io/badge/Sequenta_Logix-ff5b1a?style=for-the-badge&logo=safari&logoColor=white"></a>
+  <a href="https://sequentalogix.com"><img src="https://img.shields.io/badge/Website-ff5b1a?style=for-the-badge&logo=safari&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/veekuntharora/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.upwork.com/freelancers/~014543df5822b3befd"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"></a>
 </p>
 
 <p align="center"><i>Available for select consulting — cloud architecture, DevOps, and AI infrastructure.</i></p>
